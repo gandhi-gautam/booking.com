@@ -1,7 +1,7 @@
 Database
-url: http://localhost:8080/h2-console
-tech used: H2 database
-Table name is : hotel
+-- url: http://localhost:8080/h2-console
+-- tech used: H2 database
+-- Table name is : hotel
 Username: sa
 jdbc url: jdbc:h2:mem:hotel
 Password=password
